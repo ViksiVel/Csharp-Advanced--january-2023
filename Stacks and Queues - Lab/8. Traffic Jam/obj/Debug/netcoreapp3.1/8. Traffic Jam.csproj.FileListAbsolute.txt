@@ -1,0 +1,14 @@
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Stacks and Queues - Lab\8. Traffic Jam\bin\Debug\netcoreapp3.1\8. Traffic Jam.exe
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Stacks and Queues - Lab\8. Traffic Jam\bin\Debug\netcoreapp3.1\8. Traffic Jam.deps.json
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Stacks and Queues - Lab\8. Traffic Jam\bin\Debug\netcoreapp3.1\8. Traffic Jam.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Stacks and Queues - Lab\8. Traffic Jam\bin\Debug\netcoreapp3.1\8. Traffic Jam.runtimeconfig.dev.json
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Stacks and Queues - Lab\8. Traffic Jam\bin\Debug\netcoreapp3.1\8. Traffic Jam.dll
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Stacks and Queues - Lab\8. Traffic Jam\bin\Debug\netcoreapp3.1\8. Traffic Jam.pdb
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\netcoreapp3.1\8. Traffic Jam.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\netcoreapp3.1\8. Traffic Jam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\netcoreapp3.1\8. Traffic Jam.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\netcoreapp3.1\8. Traffic Jam.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\netcoreapp3.1\8. Traffic Jam.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\netcoreapp3.1\8. Traffic Jam.dll
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\netcoreapp3.1\8. Traffic Jam.pdb
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\netcoreapp3.1\8. Traffic Jam.genruntimeconfig.cache
