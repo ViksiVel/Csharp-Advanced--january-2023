@@ -7,7 +7,7 @@ namespace _3._Simple_Calculator
     {
         static void Main(string[] args)
         {
-            //az obi4kam moitu kikintsi @#love tq e moito 6matintse# &gg
+            
 
             List<string> input = new List<string>(Console.ReadLine().Split());
 
