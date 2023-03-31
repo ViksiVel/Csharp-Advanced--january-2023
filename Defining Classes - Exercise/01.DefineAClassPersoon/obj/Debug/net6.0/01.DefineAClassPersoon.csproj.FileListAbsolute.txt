@@ -1,0 +1,15 @@
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Defining Classes - Exercise\01.DefineAClassPersoon\obj\Debug\net6.0\01.DefineAClassPersoon.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Defining Classes - Exercise\01.DefineAClassPersoon\obj\Debug\net6.0\01.DefineAClassPersoon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Defining Classes - Exercise\01.DefineAClassPersoon\obj\Debug\net6.0\01.DefineAClassPersoon.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Defining Classes - Exercise\01.DefineAClassPersoon\obj\Debug\net6.0\01.DefineAClassPersoon.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Defining Classes - Exercise\01.DefineAClassPersoon\obj\Debug\net6.0\01.DefineAClassPersoon.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Defining Classes - Exercise\01.DefineAClassPersoon\bin\Debug\net6.0\01.DefineAClassPersoon.exe
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Defining Classes - Exercise\01.DefineAClassPersoon\bin\Debug\net6.0\01.DefineAClassPersoon.deps.json
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Defining Classes - Exercise\01.DefineAClassPersoon\bin\Debug\net6.0\01.DefineAClassPersoon.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Defining Classes - Exercise\01.DefineAClassPersoon\bin\Debug\net6.0\01.DefineAClassPersoon.dll
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Defining Classes - Exercise\01.DefineAClassPersoon\bin\Debug\net6.0\01.DefineAClassPersoon.pdb
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Defining Classes - Exercise\01.DefineAClassPersoon\obj\Debug\net6.0\01.DefineAClassPersoon.dll
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Defining Classes - Exercise\01.DefineAClassPersoon\obj\Debug\net6.0\refint\01.DefineAClassPersoon.dll
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Defining Classes - Exercise\01.DefineAClassPersoon\obj\Debug\net6.0\01.DefineAClassPersoon.pdb
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Defining Classes - Exercise\01.DefineAClassPersoon\obj\Debug\net6.0\01.DefineAClassPersoon.genruntimeconfig.cache
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Defining Classes - Exercise\01.DefineAClassPersoon\obj\Debug\net6.0\ref\01.DefineAClassPersoon.dll

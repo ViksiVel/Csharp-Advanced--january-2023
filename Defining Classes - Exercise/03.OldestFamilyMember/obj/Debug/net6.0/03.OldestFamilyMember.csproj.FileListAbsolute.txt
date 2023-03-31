@@ -1,0 +1,15 @@
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Defining Classes - Exercise\03.OldestFamilyMember\bin\Debug\net6.0\03.OldestFamilyMember.exe
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Defining Classes - Exercise\03.OldestFamilyMember\bin\Debug\net6.0\03.OldestFamilyMember.deps.json
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Defining Classes - Exercise\03.OldestFamilyMember\bin\Debug\net6.0\03.OldestFamilyMember.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Defining Classes - Exercise\03.OldestFamilyMember\bin\Debug\net6.0\03.OldestFamilyMember.dll
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Defining Classes - Exercise\03.OldestFamilyMember\bin\Debug\net6.0\03.OldestFamilyMember.pdb
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Defining Classes - Exercise\03.OldestFamilyMember\obj\Debug\net6.0\03.OldestFamilyMember.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Defining Classes - Exercise\03.OldestFamilyMember\obj\Debug\net6.0\03.OldestFamilyMember.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Defining Classes - Exercise\03.OldestFamilyMember\obj\Debug\net6.0\03.OldestFamilyMember.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Defining Classes - Exercise\03.OldestFamilyMember\obj\Debug\net6.0\03.OldestFamilyMember.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Defining Classes - Exercise\03.OldestFamilyMember\obj\Debug\net6.0\03.OldestFamilyMember.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Defining Classes - Exercise\03.OldestFamilyMember\obj\Debug\net6.0\03.OldestFamilyMember.dll
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Defining Classes - Exercise\03.OldestFamilyMember\obj\Debug\net6.0\refint\03.OldestFamilyMember.dll
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Defining Classes - Exercise\03.OldestFamilyMember\obj\Debug\net6.0\03.OldestFamilyMember.pdb
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Defining Classes - Exercise\03.OldestFamilyMember\obj\Debug\net6.0\03.OldestFamilyMember.genruntimeconfig.cache
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Defining Classes - Exercise\03.OldestFamilyMember\obj\Debug\net6.0\ref\03.OldestFamilyMember.dll
