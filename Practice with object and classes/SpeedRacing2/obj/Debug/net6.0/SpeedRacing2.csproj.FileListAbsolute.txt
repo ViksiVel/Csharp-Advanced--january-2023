@@ -1,0 +1,15 @@
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Practice with object and classes\SpeedRacing2\bin\Debug\net6.0\SpeedRacing2.exe
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Practice with object and classes\SpeedRacing2\bin\Debug\net6.0\SpeedRacing2.deps.json
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Practice with object and classes\SpeedRacing2\bin\Debug\net6.0\SpeedRacing2.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Practice with object and classes\SpeedRacing2\bin\Debug\net6.0\SpeedRacing2.dll
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Practice with object and classes\SpeedRacing2\bin\Debug\net6.0\SpeedRacing2.pdb
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Practice with object and classes\SpeedRacing2\obj\Debug\net6.0\SpeedRacing2.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Practice with object and classes\SpeedRacing2\obj\Debug\net6.0\SpeedRacing2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Practice with object and classes\SpeedRacing2\obj\Debug\net6.0\SpeedRacing2.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Practice with object and classes\SpeedRacing2\obj\Debug\net6.0\SpeedRacing2.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Practice with object and classes\SpeedRacing2\obj\Debug\net6.0\SpeedRacing2.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Practice with object and classes\SpeedRacing2\obj\Debug\net6.0\SpeedRacing2.dll
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Practice with object and classes\SpeedRacing2\obj\Debug\net6.0\refint\SpeedRacing2.dll
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Practice with object and classes\SpeedRacing2\obj\Debug\net6.0\SpeedRacing2.pdb
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Practice with object and classes\SpeedRacing2\obj\Debug\net6.0\SpeedRacing2.genruntimeconfig.cache
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Practice with object and classes\SpeedRacing2\obj\Debug\net6.0\ref\SpeedRacing2.dll

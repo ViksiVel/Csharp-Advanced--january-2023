@@ -1,0 +1,15 @@
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Practice with object and classes\SoftUniParking\bin\Debug\net6.0\SoftUniParking.exe
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Practice with object and classes\SoftUniParking\bin\Debug\net6.0\SoftUniParking.deps.json
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Practice with object and classes\SoftUniParking\bin\Debug\net6.0\SoftUniParking.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Practice with object and classes\SoftUniParking\bin\Debug\net6.0\SoftUniParking.dll
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Practice with object and classes\SoftUniParking\bin\Debug\net6.0\SoftUniParking.pdb
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Practice with object and classes\SoftUniParking\obj\Debug\net6.0\SoftUniParking.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Practice with object and classes\SoftUniParking\obj\Debug\net6.0\SoftUniParking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Practice with object and classes\SoftUniParking\obj\Debug\net6.0\SoftUniParking.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Practice with object and classes\SoftUniParking\obj\Debug\net6.0\SoftUniParking.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Practice with object and classes\SoftUniParking\obj\Debug\net6.0\SoftUniParking.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Practice with object and classes\SoftUniParking\obj\Debug\net6.0\SoftUniParking.dll
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Practice with object and classes\SoftUniParking\obj\Debug\net6.0\refint\SoftUniParking.dll
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Practice with object and classes\SoftUniParking\obj\Debug\net6.0\SoftUniParking.pdb
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Practice with object and classes\SoftUniParking\obj\Debug\net6.0\SoftUniParking.genruntimeconfig.cache
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Practice with object and classes\SoftUniParking\obj\Debug\net6.0\ref\SoftUniParking.dll
