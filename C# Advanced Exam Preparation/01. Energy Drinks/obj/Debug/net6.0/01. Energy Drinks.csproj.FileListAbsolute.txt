@@ -1,0 +1,15 @@
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\01. Energy Drinks\bin\Debug\net6.0\01. Energy Drinks.exe
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\01. Energy Drinks\bin\Debug\net6.0\01. Energy Drinks.deps.json
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\01. Energy Drinks\bin\Debug\net6.0\01. Energy Drinks.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\01. Energy Drinks\bin\Debug\net6.0\01. Energy Drinks.dll
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\01. Energy Drinks\bin\Debug\net6.0\01. Energy Drinks.pdb
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\01. Energy Drinks\obj\Debug\net6.0\01. Energy Drinks.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\01. Energy Drinks\obj\Debug\net6.0\01. Energy Drinks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\01. Energy Drinks\obj\Debug\net6.0\01. Energy Drinks.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\01. Energy Drinks\obj\Debug\net6.0\01. Energy Drinks.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\01. Energy Drinks\obj\Debug\net6.0\01. Energy Drinks.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\01. Energy Drinks\obj\Debug\net6.0\01. Energy Drinks.dll
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\01. Energy Drinks\obj\Debug\net6.0\refint\01. Energy Drinks.dll
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\01. Energy Drinks\obj\Debug\net6.0\01. Energy Drinks.pdb
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\01. Energy Drinks\obj\Debug\net6.0\01. Energy Drinks.genruntimeconfig.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\01. Energy Drinks\obj\Debug\net6.0\ref\01. Energy Drinks.dll

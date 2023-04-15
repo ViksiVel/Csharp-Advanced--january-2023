@@ -1,0 +1,15 @@
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\01. Rubber Duck Debugers\bin\Debug\net6.0\01. Rubber Duck Debugers.exe
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\01. Rubber Duck Debugers\bin\Debug\net6.0\01. Rubber Duck Debugers.deps.json
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\01. Rubber Duck Debugers\bin\Debug\net6.0\01. Rubber Duck Debugers.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\01. Rubber Duck Debugers\bin\Debug\net6.0\01. Rubber Duck Debugers.dll
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\01. Rubber Duck Debugers\bin\Debug\net6.0\01. Rubber Duck Debugers.pdb
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\01. Rubber Duck Debugers\obj\Debug\net6.0\01. Rubber Duck Debugers.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\01. Rubber Duck Debugers\obj\Debug\net6.0\01. Rubber Duck Debugers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\01. Rubber Duck Debugers\obj\Debug\net6.0\01. Rubber Duck Debugers.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\01. Rubber Duck Debugers\obj\Debug\net6.0\01. Rubber Duck Debugers.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\01. Rubber Duck Debugers\obj\Debug\net6.0\01. Rubber Duck Debugers.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\01. Rubber Duck Debugers\obj\Debug\net6.0\01. Rubber Duck Debugers.dll
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\01. Rubber Duck Debugers\obj\Debug\net6.0\refint\01. Rubber Duck Debugers.dll
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\01. Rubber Duck Debugers\obj\Debug\net6.0\01. Rubber Duck Debugers.pdb
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\01. Rubber Duck Debugers\obj\Debug\net6.0\01. Rubber Duck Debugers.genruntimeconfig.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\01. Rubber Duck Debugers\obj\Debug\net6.0\ref\01. Rubber Duck Debugers.dll

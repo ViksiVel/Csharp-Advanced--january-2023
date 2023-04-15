@@ -1,0 +1,15 @@
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\01. Apocalypse Preparation\obj\Debug\net6.0\01. Apocalypse Preparation.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\01. Apocalypse Preparation\obj\Debug\net6.0\01. Apocalypse Preparation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\01. Apocalypse Preparation\obj\Debug\net6.0\01. Apocalypse Preparation.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\01. Apocalypse Preparation\obj\Debug\net6.0\01. Apocalypse Preparation.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\01. Apocalypse Preparation\obj\Debug\net6.0\01. Apocalypse Preparation.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\01. Apocalypse Preparation\bin\Debug\net6.0\01. Apocalypse Preparation.exe
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\01. Apocalypse Preparation\bin\Debug\net6.0\01. Apocalypse Preparation.deps.json
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\01. Apocalypse Preparation\bin\Debug\net6.0\01. Apocalypse Preparation.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\01. Apocalypse Preparation\bin\Debug\net6.0\01. Apocalypse Preparation.dll
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\01. Apocalypse Preparation\bin\Debug\net6.0\01. Apocalypse Preparation.pdb
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\01. Apocalypse Preparation\obj\Debug\net6.0\01. Apocalypse Preparation.dll
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\01. Apocalypse Preparation\obj\Debug\net6.0\refint\01. Apocalypse Preparation.dll
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\01. Apocalypse Preparation\obj\Debug\net6.0\01. Apocalypse Preparation.pdb
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\01. Apocalypse Preparation\obj\Debug\net6.0\01. Apocalypse Preparation.genruntimeconfig.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\01. Apocalypse Preparation\obj\Debug\net6.0\ref\01. Apocalypse Preparation.dll

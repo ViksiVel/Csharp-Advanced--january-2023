@@ -1,0 +1,15 @@
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\02. Help-A-Mole\bin\Debug\net6.0\02. Help-A-Mole.exe
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\02. Help-A-Mole\bin\Debug\net6.0\02. Help-A-Mole.deps.json
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\02. Help-A-Mole\bin\Debug\net6.0\02. Help-A-Mole.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\02. Help-A-Mole\bin\Debug\net6.0\02. Help-A-Mole.dll
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\02. Help-A-Mole\bin\Debug\net6.0\02. Help-A-Mole.pdb
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\02. Help-A-Mole\obj\Debug\net6.0\02. Help-A-Mole.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\02. Help-A-Mole\obj\Debug\net6.0\02. Help-A-Mole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\02. Help-A-Mole\obj\Debug\net6.0\02. Help-A-Mole.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\02. Help-A-Mole\obj\Debug\net6.0\02. Help-A-Mole.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\02. Help-A-Mole\obj\Debug\net6.0\02. Help-A-Mole.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\02. Help-A-Mole\obj\Debug\net6.0\02. Help-A-Mole.dll
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\02. Help-A-Mole\obj\Debug\net6.0\refint\02. Help-A-Mole.dll
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\02. Help-A-Mole\obj\Debug\net6.0\02. Help-A-Mole.pdb
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\02. Help-A-Mole\obj\Debug\net6.0\02. Help-A-Mole.genruntimeconfig.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\C# Advanced Exam Preparation\02. Help-A-Mole\obj\Debug\net6.0\ref\02. Help-A-Mole.dll
